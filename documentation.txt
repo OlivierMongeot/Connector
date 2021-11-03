@@ -1,0 +1,34 @@
+A faire 
+
+Si produit seule  : 
+     - verifier si doublon non effacé 
+    - verifier si 
+
+    
+Fait :
+
+Requete preparer sue string 
+
+Recherche doublons taille update pour produit combiné
+
+
+Produit combiné tailles/Couleurs OK : modif du layer prod attribute 
+
+Code 
+22  probleme de prix different sur le meme article
+
+33 DOUBLON 
+
+
+99 Proble de nom identique avec prix different ou new probleme
+
+5 pas de couleur 
+4 taille
+6 Famille
+7 Marque
+8 Rayon 
+
+98 PAS de ID name
+95 reparation de syncro car erreur pas de pas de correspondance Presta - Kezia
+
+91 stock 0 

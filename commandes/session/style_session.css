@@ -1,0 +1,67 @@
+html, body {
+    /*background: #67BE4B;*/
+    background-image:linear-gradient(to bottom left, #000000,#537895);
+}
+#container{
+    width:350px;
+    margin:0 auto;
+    margin-top:10%;
+}
+/* Bordered form */
+form {
+    width:300px;
+    padding: 30px;
+    border: 1px solid #f1f1f1;
+    background: #fff;
+    border-radius: 4px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+#container h1{
+    width: 38%;
+    margin: 0 auto;
+    padding-bottom: 1px;
+}
+
+/* Full-width inputs */
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+/* Set a style for all buttons */
+input[type=submit] {
+    background-image:linear-gradient(to bottom left, #09203F,#537895);
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+input[type=submit]:hover {
+    background-color: white;
+    color: white;
+    border: 1px solid #53af57;
+}
+
+h1 {
+font-family:arial, sans-serif;
+margin: auto;
+padding:10px;
+font-size:250%;
+color:#484C54;
+text-align:center;
+text-shadow: #000000 1px 1px, #000000 -1px 1px, #000000 -1px -1px, #000000 1px -1px;
+/*text-shadow: 1px 1px 0 rgba(45, 40, 40, .2);*/
+/*background-image:linear-gradient(to bottom left, #09203F,#537895); */
+background-color:white;
+width: 600px;
+border: 2px solid black;
+border-style: groove;
+border-radius: 4px;
+position: relative;
+}

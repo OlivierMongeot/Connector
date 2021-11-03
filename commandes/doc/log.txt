@@ -1,0 +1,2 @@
+INSERT INTO web_commande (CODE_WEB, LIV, ADR1, ADR2, CP, VILLE, PAYS, DATECDE, PORT, MODE_DE_REGLEMENT, NOTA, TRAITE) VALUES ('', '1' , '9 Rue De La Niederbourg' , '' , '67400' , 'Illkirch Graffenstaden' , '1' , '3333' , '11' , '11' , '1111' , '1')
+SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'CODE_WEB' at row 1user cree
